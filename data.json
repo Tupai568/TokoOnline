@@ -1,0 +1,128 @@
+{
+  "data": {
+    "makanan": [
+      {
+        "id": 1,
+        "nama": "Nasi Babat Madura",
+        "image": "1.jpeg",
+        "harga": 29000
+      },
+      {
+        "id": 2,
+        "nama": "Nasi Babat Usus",
+        "image": "2.jpeg",
+        "harga": 20000
+      },
+      {
+        "id": 3,
+        "nama": "Nasi Uduk Tongkol",
+        "image": "3.jpeg",
+        "harga": 30000
+      },
+      {
+        "id": 4,
+        "nama": "Nasi Ayam Geprek",
+        "image": "4.jpeg",
+        "harga": 29000
+      },
+      {
+        "id": 5,
+        "nama": "Nasi Kucing",
+        "image": "5.jpeg",
+        "harga": 10000
+      },
+      {
+        "id": 6,
+        "nama": "Nasi Goreng Jawa",
+        "image": "6.jpeg",
+        "harga": 15000
+      },
+      {
+        "id": 7,
+        "nama": "Nasi Goreng Mawut",
+        "image": "7.jpeg",
+        "harga": 15000
+      },
+      {
+        "id": 8,
+        "nama": "Nasi Ikan Gurami",
+        "image": "8.jpeg",
+        "harga": 20000
+      },
+      {
+        "id": 9,
+        "nama": "Nasi Cumi Hitam",
+        "image": "9.jpeg",
+        "harga": "15000"
+      },
+      {
+        "id": 10,
+        "nama": "Seblak Aci",
+        "image": "10.jpeg",
+        "harga": 15000
+      }
+    ],
+    "minuman": [
+      {
+        "id": 1,
+        "nama": "Es Kelapa Muda",
+        "image": "es1.jpeg",
+        "harga": 5000
+      },
+      {
+        "id": 2,
+        "nama": "Es Teh Manis",
+        "image": "es2.jpeg",
+        "harga": 5000
+      },
+      {
+        "id": 3,
+        "nama": "Es Campur",
+        "image": "es3.jpeg",
+        "harga": 10000
+      },
+      {
+        "id": 4,
+        "nama": "Es Kopyor",
+        "image": "es4.jpeg",
+        "harga": 10000
+      },
+      {
+        "id": 5,
+        "nama": "Jus Alpukat",
+        "image": "es5.jpeg",
+        "harga": 18000
+      },
+      {
+        "id": 6,
+        "nama": "Jus Durian",
+        "image": "es6.jpeg",
+        "harga": 15000
+      },
+      {
+        "id": 7,
+        "nama": "Jus Apel",
+        "image": "es7.jpeg",
+        "harga": 15000
+      },
+      {
+        "id": 8,
+        "nama": "Es Bubur Kacang Ijo",
+        "image": "es8.jpeg",
+        "harga": 10000
+      },
+      {
+        "id": 9,
+        "nama": "Jus Wortel",
+        "image": "es9.jpeg",
+        "harga": "10000"
+      },
+      {
+        "id": 10,
+        "nama": "Jus Tomat",
+        "image": "es10.jpeg",
+        "harga": 10000
+      }
+    ]
+  }
+}
